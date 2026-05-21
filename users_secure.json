@@ -1,0 +1,53 @@
+{
+  "users": {
+    "admin": {
+      "failed_attempts": 1,
+      "hash": "xjG1c4RqZL5R1KaHkgSiYo08PQJVaLB5SlqZ5IU2i4I=",
+      "iterations": 200000,
+      "lock_until": 0,
+      "salt": "imR1/XNbDmYcRYnp8IcJcw=="
+    },
+    "duda": {
+      "failed_attempts": 0,
+      "hash": "3bSH8SDSF4bo+t7zr6IbhYS9/OpV3rK8tsR9WGSTgCo=",
+      "iterations": 200000,
+      "lock_until": 0,
+      "salt": "CUMGsI6AxFY/AcR/jL4Bgw=="
+    },
+    "guest": {
+      "failed_attempts": 0,
+      "hash": "VIem0kg1Dpwx9FnsinCjANjVuLD3VHrH40q6d6dJgzk=",
+      "iterations": 200000,
+      "lock_until": 0,
+      "salt": "FhezwKWgvyJVO/O3oXRpDQ=="
+    },
+    "madu": {
+      "failed_attempts": 0,
+      "hash": "oA5hRhaCGGWHTD8s9FFsKUwRrurn7IAHCIadm0CAqno=",
+      "iterations": 200000,
+      "lock_until": 0,
+      "salt": "FOxYMT5eqL06/aXw7lQ5hg=="
+    },
+    "maria": {
+      "failed_attempts": 0,
+      "hash": "E3o8a7UZ9AQz0pymx9Bj+yS8giLuqnSMuZmXIfy70zU=",
+      "iterations": 200000,
+      "lock_until": 0,
+      "salt": "psE6cHR8RS15HeudmfjWig=="
+    },
+    "maria3": {
+      "failed_attempts": 0,
+      "hash": "Qbc+xnYvlq0ThTGXjSNiconsZOcZ+KLaTjbLpnq37+I=",
+      "iterations": 200000,
+      "lock_until": 0,
+      "salt": "3EiGv+n0q8Pomqyt0ELiyQ=="
+    },
+    "maria_teste": {
+      "failed_attempts": 0,
+      "hash": "oPm7cb2mADg9Ufuk0CWy4Wu5Ck3+8/khVmxvBTEMomY=",
+      "iterations": 200000,
+      "lock_until": 0,
+      "salt": "U2CiELCnr2nEAvmd64k/4w=="
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ips": {
+    "198.51.100.77": {
+      "blocked_until": null,
+      "reason": "bruteforce_24h"
+    },
+    "203.0.113.55": {
+      "blocked_until": null,
+      "reason": "manual_test"
+    }
+  }
+}
